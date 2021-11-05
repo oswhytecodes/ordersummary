@@ -21,6 +21,7 @@ body {
     margin: 3em auto;
     background-color: rgb(248, 245, 241);
     border-radius: 1.4em;
+    overflow: hidden;
 }
 .container-text {
     padding: 2.4em 2em;
